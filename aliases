@@ -1,0 +1,5 @@
+[alias]
+    coit = commit
+    vommit = commit
+    poule = pull
+    stash poop = stash pop
