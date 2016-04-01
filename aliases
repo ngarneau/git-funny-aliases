@@ -2,4 +2,5 @@
     coit = commit
     vommit = commit
     poule = pull
+    poune = pull
     stash poop = stash pop
